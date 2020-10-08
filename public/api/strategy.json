@@ -1,0 +1,8 @@
+{
+  "ret": true,
+  "data": [
+    { "id": 1, "backgroundUrl": "https://www.res.ren3.pandadastudio.com/_nuxt/img/gls1-bg.2b15eaf.jpg", "title": "新手之书", "num": "01" },
+    { "id": 2, "backgroundUrl": "https://www.res.ren3.pandadastudio.com/_nuxt/img/gls2-bg.a8fbf14.jpg", "title": "高手之路", "num": "02" },
+    { "id": 3, "backgroundUrl": "https://www.res.ren3.pandadastudio.com/_nuxt/img/gls3-bg.a18f715.jpg", "title": "王者之巅", "num": "03" }
+  ]
+}

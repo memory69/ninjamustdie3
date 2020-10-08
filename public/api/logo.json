@@ -1,0 +1,41 @@
+{
+  "ret": true,
+  "data": [
+    {
+      "id": 1,
+      "imgUrl": "http://www.res.ren3.pandadastudio.com/upload/default/20200918/2bbcee1c4180f5205801d8e554522862.jpg",
+      "title": "来自斗鱼的狂欢之旅————观看直播享好礼",
+      "describe": "忍忍们缺资源嘛？忍忍们想看大神操作嘛？忍忍们想学习游戏技巧嘛？不如去斗鱼直播，那儿有一场联合举办的狂欢之旅，整整一个月，观看直播完成每日小任务，即可获得抽取宝箱的机会，6大礼包，应有尽有！而且，我是不会告诉你，成为斗鱼的新人主播，还有现金奖励可以拿！"
+    },
+    {
+      "id": 2,
+      "imgUrl": "http://www.res.ren3.pandadastudio.com/upload/default/20200911/56e4823a7df411d67a34d65311c39218.jpg",
+      "title": "《忍者必须死3》第三届主播车轮挑战赛即将来袭",
+      "describe": "第三届主播车轮战强势登场，花式互虐，一个绝佳的挑战主播的机会，真的要错过吗？  虎牙、斗鱼与B站，30位主播蓄势待发，等你上场！  新的限制条件，新的被挑战者，新的挑战奖励，敢拼你就来！"
+    },
+    {
+      "id": 3,
+      "imgUrl": "http://www.res.ren3.pandadastudio.com/upload/default/20200819/1da5cbd31ccb325d7517aba37203f56a.jpg",
+      "title": "《忍者必须死3》第四届家族联赛拉开帷幕，全程直播",
+      "describe": "万众瞩目的第四届家族联赛来啦~脱颖而出的256个家族，争夺唯一的冠军宝座！精彩刺激的家族联赛，不容错过，快来虎牙、斗鱼、B站看主播家族的精彩表现吧！"
+    },
+    {
+      "id": 4,
+      "imgUrl": "http://www.res.ren3.pandadastudio.com/upload/default/20200814/1c14586a074a7fb05e584361912703db.jpg",
+      "title": "《忍者必须死3》周年狂欢活动详情",
+      "describe": "周年狂欢活动即将来临，小白工作室为广大忍忍们准备了丰富的活动内容及奖励，感谢忍忍们的每一日陪伴！"
+    },
+    {
+      "id": 5,
+      "imgUrl": "http://www.res.ren3.pandadastudio.com/upload/default/20200904/161602cbf46e71fdeec98c4f9e33d84d.png",
+      "title": "二周年角色大赏结果公布！",
+      "describe": ""
+    },
+    {
+      "id": 6,
+      "imgUrl": "http://www.res.ren3.pandadastudio.com/upload/default/20200813/773428ec482e5d12860c585f8e20fd87.jpg",
+      "title": "二周年线下活动回顾",
+      "describe": "萤火虫漫展"
+    }
+  ]
+}

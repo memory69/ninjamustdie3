@@ -1,0 +1,8 @@
+{
+  "ret": true,
+  "data": [
+    { "id": 1, "imgUrl": "https://www.res.ren3.pandadastudio.com/_nuxt/img/stg1-bg.6ee791c.png" },
+    { "id": 2, "imgUrl": "https://www.res.ren3.pandadastudio.com/_nuxt/img/stg2-bg.3294335.png" },
+    { "id": 3, "imgUrl": "https://www.res.ren3.pandadastudio.com/_nuxt/img/stg3-bg.b3b4208.png" }
+  ]
+}
