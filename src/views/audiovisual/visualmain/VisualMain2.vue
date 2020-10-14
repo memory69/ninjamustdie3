@@ -133,12 +133,12 @@ export default {
     //     console.log(item);
     //   });
     // });
-    // request({
-    //   url:'/visualmain/visualmain2.json'
-    // }).then(res => {
-    //   this.visual2 = res.data.data
-    //   this.visual2.forEach(item => )
-    // })
+    this.request({
+      url: '/visualmain/visualmain2.json',
+    }).then((res) => {
+      this.visual2 = res.data.data;
+      // console.log(res);
+    });
   },
   methods: {
     handle(index) {
