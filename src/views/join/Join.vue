@@ -41,15 +41,11 @@
       <p>小白工作室（英文名Pandada Studio）</p>
       <p>成立七年来，我们一直专注于精品原创手机游戏</p>
       <p>的开发</p>
-      <a
-        href="JavaScript:viod(0)"
-        style="color:black; text-decoration: underline;font-weight:bold"
-      >立志推动中国原创精品游戏的发展！</a>
+      <a href="JavaScript:viod(0)" style="color:black; text-decoration: underline;font-weight:bold">立志推动中国原创精品游戏的发展！</a>
       <br />
-      <a
-        href="JavaScript:viod(0)"
-        style="color:black; text-decoration: underline; font-weight:bold"
-      >将前所未有的游戏体验带给全世界玩家！</a>
+      <a href="JavaScript:viod(0)" style="color:black; text-decoration: underline; font-weight:bold"
+        >将前所未有的游戏体验带给全世界玩家！</a
+      >
       <p style="font-size:16px;margin-top:50px">核心产品</p>
       <img
         src="https://public-cdn.mokahr.com/b870610a-29cc-4f5c-9374-039de496f8d6.jpg?x-oss-process=image/resize,m_lfit,h_0,w_568"
@@ -62,28 +58,15 @@
       <p>将跑酷游戏与横版战斗游戏相结合</p>
       <p>在玩家中和行业内都获得了巨大影响力</p>
       <!-- <p>的开发</p> -->
-      <a
-        href="JavaScript:viod(0)"
-        style="color:black; text-decoration: underline;font-weight:bold"
-      >凭借单款游戏，多次进入ios畅销榜前5</a>
+      <a href="JavaScript:viod(0)" style="color:black; text-decoration: underline;font-weight:bold">凭借单款游戏，多次进入ios畅销榜前5</a>
       <br />
-      <a
-        href="JavaScript:viod(0)"
-        style="color:black; text-decoration: underline; font-weight:bold"
-      >成为国内游戏行业不可忽视的新生力量</a>
+      <a href="JavaScript:viod(0)" style="color:black; text-decoration: underline; font-weight:bold">成为国内游戏行业不可忽视的新生力量</a>
       <p style="font-size:16px;margin-top:50px">介绍视频</p>
       <p>一起来看个视频认识一下~</p>
-      <video
-        id="myVideo"
-        class="video-js vjs-big-play-centered vjs-fluid"
-        controls
-        preload="auto"
-        width="100%"
-        height="100%"
-      >
+      <video id="myVideo" class="video-js vjs-big-play-centered vjs-fluid" controls preload="auto" width="100%" height="100%">
         <source
           type="video/mp4"
-          src="http://ugccsy.qq.com/uwMROfz2r5zCIaQXGdGnC2dfhzk_jigLCkkLvI0zErHWpl3G/k0972qn2xlg.m701.mp4?vkey=314166859234251AE4DBEA64B8E3F9A218190F9A2C2E3A81F56D3635C8259FC0FAEB3BB1456AC3887D949371A6BD8197909D1EEF604E74C8992EA856F2D41A63CE09F59473A0EB3F89BBA0CAE2BDEBC621FB87EEBF83849E98941BF13F82438D50014B24E3CDD20C85BE5D179E7986A7FD5C1261DF22FF9F182914EEE5AAB6FF&br=29&platform=2&fmt=auto&level=0&sdtfrom=v5010&guid=cd7947793f519fd92eaf9ebc23e07a3b"
+          src="http://ugccsy.qq.com/uwMROfz2r5zCIaQXGdGnC2dfhzk_jigLCkkLvI0zErHWpl3G/k0972qn2xlg.m701.mp4?vkey=E59F2B38BC0E56952CAF31EA721002F3E83D5431D02A698FD449A94ECCBC402D1ED17CFF554F3EDF5AA8639237A64B462C08ABFC0D9F3BB6D436E9EF4258A50BF71F2B573C1BF73527A2BC6A8AE8315A0CBA7B9A2027023272DFCC8454F029297A6AFCC99BB029ECA369ACE8AF8A8E883264BD999C9148E92288499BAB7078C8&br=29&platform=2&fmt=auto&level=0&sdtfrom=v5010&guid=b099b9a61edc89572660a23a2c2e0cdd"
         />
       </video>
       <p style="font-size:16px;margin-top:50px">招聘职位</p>
@@ -183,10 +166,7 @@
         alt
         width="100%"
       />
-      <a
-        href="JavaScript:viod(0)"
-        style="font-size:14px;color:#800000; text-decoration: underline;font-weight:bold"
-      >高速的发展平台</a>
+      <a href="JavaScript:viod(0)" style="font-size:14px;color:#800000; text-decoration: underline;font-weight:bold">高速的发展平台</a>
       <br />
       <p style>《忍者必须死3》国内版本口碑和数据表现显眼</p>
       <p>海外版本有序筹备，进驻港澳台及日本市场有序</p>
@@ -198,10 +178,7 @@
         alt
         width="100%"
       />
-      <a
-        href="JavaScript:viod(0)"
-        style="font-size:14px;color:#800000; text-decoration: underline;font-weight:bold"
-      >有爱的工作氛围</a>
+      <a href="JavaScript:viod(0)" style="font-size:14px;color:#800000; text-decoration: underline;font-weight:bold">有爱的工作氛围</a>
       <br />
       <p style>扁平的管理层级，简单的沟通环境</p>
       <p>在这里，我们会</p>
@@ -213,10 +190,7 @@
         alt
         width="100%"
       />
-      <a
-        href="JavaScript:viod(0)"
-        style="font-size:14px;color:#800000; text-decoration: underline;font-weight:bold"
-      >广阔的成长机会</a>
+      <a href="JavaScript:viod(0)" style="font-size:14px;color:#800000; text-decoration: underline;font-weight:bold">广阔的成长机会</a>
       <br />
       <p style>专业管理双通道的成长路线</p>
       <p>新人培训加速了解助力个人融入</p>
@@ -228,10 +202,7 @@
         alt
         width="100%"
       />
-      <a
-        href="JavaScript:viod(0)"
-        style="font-size:14px;color:#800000; text-decoration: underline;font-weight:bold"
-      >优厚的薪酬福利</a>
+      <a href="JavaScript:viod(0)" style="font-size:14px;color:#800000; text-decoration: underline;font-weight:bold">优厚的薪酬福利</a>
       <br />
       <p style>极具竞争力的薪资，丰厚的项目奖金</p>
       <p>免费零食饮料不限量供应</p>
@@ -246,13 +217,7 @@
         width="30%"
       />
     </div>
-    <van-popup
-      style="backgroundColor:#e8ebed"
-      v-model="meunshow"
-      closeable
-      position="top"
-      :style="{ height: '70%' }"
-    >
+    <van-popup style="backgroundColor:#e8ebed" v-model="meunshow" closeable position="top" :style="{ height: '70%' }">
       <a href="javascript:void(0)" @click="home">官方首页</a>
       <a href="javascript:void(0)" @click="information">资讯台</a>
       <a href="javascript:void(0)" @click="endurerecord">忍届录</a>
@@ -267,28 +232,25 @@
 
 <script>
 export default {
-  name: "Join",
+  name: 'Join',
   data() {
     return {
       meunshow: false,
       isshow: true,
       show: true,
-      value: "",
+      value: '',
     };
   },
   mounted() {
-    window.addEventListener("scroll", this.handleScroll);
+    window.addEventListener('scroll', this.handleScroll);
     // this.getData();
   },
   destroyed() {
-    window.removeEventListener("scroll", this.handleScroll);
+    window.removeEventListener('scroll', this.handleScroll);
   },
   methods: {
     handleScroll() {
-      var scrollTop =
-        window.pageXOffset ||
-        document.documentElement.scrollTop ||
-        document.body.scrollTop;
+      var scrollTop = window.pageXOffset || document.documentElement.scrollTop || document.body.scrollTop;
       // console.log(scrollTop);
       if (scrollTop > 100) {
         this.show = false;
@@ -302,11 +264,11 @@ export default {
       //此处初始化的调用，我放在了获取数据之后的方法内，而不是放在钩子函数mounted
       //页面dom元素渲染完毕，执行回调里面的方法
       this.$nextTick(() => {
-        let myPlayer = this.$video(document.getElementById("myVideo"), {
+        let myPlayer = this.$video(document.getElementById('myVideo'), {
           //确定播放器是否具有用户可以与之交互的控件。没有控件，启动视频播放的唯一方法是使用autoplay属性或通过Player API。
           controls: true, //自动播放属性,muted:静音播放
           autoplay: false, //建议浏览器是否应在<video>加载元素后立即开始下载视频数据。
-          preload: "auto", //设置视频播放器的显示宽度（以像素为单位） // width: "800px", //设置视频播放器的显示高度（以像素为单位） // height: "400px",
+          preload: 'auto', //设置视频播放器的显示宽度（以像素为单位） // width: "800px", //设置视频播放器的显示高度（以像素为单位） // height: "400px",
           controlBar: {
             playToggle: true,
           },
@@ -317,28 +279,28 @@ export default {
       this.meunshow = true;
     },
     home() {
-      this.$router.push("/");
+      this.$router.push('/');
     },
     information() {
-      this.$router.push("/information");
+      this.$router.push('/information');
     },
     strategy() {
-      this.$router.push("/strategy");
+      this.$router.push('/strategy');
     },
     endurerecord() {
-      this.$router.push("/endurerecord");
+      this.$router.push('/endurerecord');
     },
     audiovisual() {
-      this.$router.push("/audiovisual");
+      this.$router.push('/audiovisual');
     },
     shop() {
-      this.$router.push("/shop");
+      this.$router.push('/shop');
     },
     fan() {
-      this.$router.push("/fan");
+      this.$router.push('/fan');
     },
     join() {
-      this.$router.push("/join");
+      this.$router.push('/join');
     },
   },
 };
@@ -376,7 +338,7 @@ export default {
   width: 100%;
   height: 150px;
   box-sizing: border-box;
-  background: url(https://public-cdn.mokahr.com/7f10faa3-c4e2-4595-a7b9-678dae9e8c17.jpg?x-oss-process=image/resize,m_fill,h_306,w_640);
+  background: url(https://public-cdn.mokahr.com/7f10faa3-c4e2-4595-a7b9-678dae9e8c17.jpg?x-oss-process=image/resize, m_fill, h_306, w_640);
   background-size: 100%;
   background-repeat: no-repeat;
   /* position: relative; */

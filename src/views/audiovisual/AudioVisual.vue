@@ -9,10 +9,10 @@
 </template>
 
 <script>
-import HomeHeader from "../components/HomeHeader";
-import VisualTag from "../audiovisual/VisualTag";
+import HomeHeader from '../components/HomeHeader';
+import VisualTag from '../audiovisual/VisualTag';
 export default {
-  name: "AudioVisual",
+  name: 'AudioVisual',
   components: {
     HomeHeader,
     VisualTag,

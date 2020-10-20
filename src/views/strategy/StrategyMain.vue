@@ -98,6 +98,8 @@ export default {
 }
 .left img {
   height: 80px;
+  border-radius: 10px;
+  overflow: hidden;
 }
 .item .right {
   margin-left: 15px;

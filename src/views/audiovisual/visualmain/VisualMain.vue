@@ -130,7 +130,7 @@ export default {
   margin-top: 15px;
   margin-right: 10px;
   /* border: 1px solid red; */
-  height: 105px;
+  height: 125px;
   border-radius: 16px;
   overflow: hidden;
   position: relative;

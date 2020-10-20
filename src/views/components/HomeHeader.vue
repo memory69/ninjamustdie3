@@ -5,15 +5,12 @@
       <p>忍者必须死3</p>
       <p style="font-size:10px">风靡全球的水墨战斗跑酷</p>
     </div>
-    <img class="download" src="../../assets/btn-download.png" alt width="100px" height="30px" />
+    <a href="https://resource.ninjamustdie3.pandadastudio.com/NinjaMustDie3_Official.apk">
+      <img class="download" src="../../assets/btn-download.png" alt width="100px" height="30px"
+    /></a>
+
     <van-icon name="wap-nav" @click="handle" />
-    <van-popup
-      style="backgroundColor:#e8ebed"
-      v-model="show"
-      closeable
-      position="top"
-      :style="{ height: '70%' }"
-    >
+    <van-popup style="backgroundColor:#e8ebed" v-model="show" closeable position="top" :style="{ height: '70%' }">
       <a href="javascript:void(0)" @click="home">官方首页</a>
       <a href="javascript:void(0)" @click="information">资讯台</a>
       <a href="javascript:void(0)" @click="endurerecord">忍届录</a>
@@ -28,7 +25,7 @@
 
 <script>
 export default {
-  name: "HomeHeader",
+  name: 'HomeHeader',
   data() {
     return {
       show: false,
@@ -39,28 +36,28 @@ export default {
       this.show = true;
     },
     home() {
-      this.$router.push("/");
+      this.$router.push('/');
     },
     information() {
-      this.$router.push("/information");
+      this.$router.push('/information');
     },
     strategy() {
-      this.$router.push("/strategy");
+      this.$router.push('/strategy');
     },
     endurerecord() {
-      this.$router.push("/endurerecord");
+      this.$router.push('/endurerecord');
     },
     audiovisual() {
-      this.$router.push("/audiovisual");
+      this.$router.push('/audiovisual');
     },
     shop() {
-      this.$router.push("/shop");
+      this.$router.push('/shop');
     },
     fan() {
-      this.$router.push("/fan");
+      this.$router.push('/fan');
     },
     join() {
-      this.$router.push("/join");
+      this.$router.push('/join');
     },
   },
 };
